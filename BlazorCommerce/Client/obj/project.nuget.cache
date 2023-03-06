@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "bxuhtshRgDAKsBWtEPftoNeAA7hk3TpkxD08vDkSQ/GAaaDA2ThBrJUcxygffCy3A/pzn+qUNUgVPXYknnF82g==",
+  "dgSpecHash": "RYSc+FjhmYxD+h4/qw1Avm6YehbTEcNLanztivZcLdQTKDq1gR1qaIsNg0+IOsRZzTLEJ9zOfJz15e8MwGLCFA==",
   "success": true,
   "projectFilePath": "C:\\Users\\josep\\Desktop\\BlazorCommerce\\BlazorCommerce\\Client\\BlazorCommerce.Client.csproj",
   "expectedPackageFiles": [
@@ -33,9 +33,7 @@
     "C:\\Users\\josep\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\josep\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\josep\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
-    "C:\\Users\\josep\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
-    "C:\\Users\\josep\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
-    "C:\\Users\\josep\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512"
+    "C:\\Users\\josep\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.8\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.8.nupkg.sha512"
   ],
   "logs": []
 }

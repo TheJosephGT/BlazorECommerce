@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "l2P1f3GWf3t/LCZamaxeD0bH+PlL4zZ46l/20RnK9MuvonCBbIJAj5EzifH7gWDpKoCxCBd4I89R/7ZMQohfBA==",
+  "dgSpecHash": "qniGbcOl5CmXnkk2VlK2vb7q4PG+oYxShGp7txPWI8Wavl0pZy6ISbOWzsXCFmLUyesxsi2o8Wz6/UapATPayA==",
   "success": true,
   "projectFilePath": "C:\\Users\\josep\\Desktop\\BlazorCommerce\\BlazorCommerce\\Server\\BlazorCommerce.Server.csproj",
   "expectedPackageFiles": [
@@ -71,11 +71,7 @@
     "C:\\Users\\josep\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
     "C:\\Users\\josep\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\josep\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
-    "C:\\Users\\josep\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
-    "C:\\Users\\josep\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
-    "C:\\Users\\josep\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
-    "C:\\Users\\josep\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
-    "C:\\Users\\josep\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+    "C:\\Users\\josep\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

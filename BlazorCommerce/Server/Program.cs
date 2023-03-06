@@ -1,7 +1,10 @@
 global using BlazorCommerce.Shared;
 global using Microsoft.EntityFrameworkCore;
 global using BlazorCommerce.Server.Data;
+global using BlazorCommerce.Server.Services.ProductService;
 using Microsoft.AspNetCore.ResponseCompression;
+
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -16,6 +19,8 @@ builder.Services.AddRazorPages();
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+builder.Services.AddScoped<IProductService, ProductService>();
 
 var app = builder.Build();
 

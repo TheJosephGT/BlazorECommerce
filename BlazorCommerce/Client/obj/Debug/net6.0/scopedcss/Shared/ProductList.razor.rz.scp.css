@@ -10,22 +10,9 @@
         transform: scale(1.1);
     }
 
-.media[b-jaki3ingw5] {
-    display: flex;
-    align-items: flex-start;
-}
-
-.media-body[b-jaki3ingw5] {
-    flex: 1;
-}
-
 .media-img-wrapper[b-jaki3ingw5] {
     width: 200px;
     text-align: center;
-}
-
-.price[b-jaki3ingw5] {
-    color: green;
 }
 
 @media (max-width: 1023.98px) {
